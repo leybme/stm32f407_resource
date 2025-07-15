@@ -1,0 +1,9 @@
+红外解码编码模块
+HC05蓝牙模块
+NRF24L01无线2.4G模块
+RC522射频IC卡识别模块
+NEO-6M-GPS模块
+ESP01S-WIFI模块
+EC_01G-NBIOT+GPS模块
+AS32-LoRa无线通信模块
+红外接收模块
